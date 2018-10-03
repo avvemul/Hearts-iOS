@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>391401061466-r11m9gr35bqum3s4ea0kn3ggi28qtqq4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.391401061466-r11m9gr35bqum3s4ea0kn3ggi28qtqq4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC3Qm33DY6QW2dNKlRx9RLFYIo5UHaVqFo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>391401061466</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>abhi.Ultimate</string>
+	<key>PROJECT_ID</key>
+	<string>so-much-cool-guy-hearts</string>
+	<key>STORAGE_BUCKET</key>
+	<string>so-much-cool-guy-hearts.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:391401061466:ios:74c55d03f4674458</string>
+	<key>DATABASE_URL</key>
+	<string>https://so-much-cool-guy-hearts.firebaseio.com</string>
+</dict>
+</plist>
